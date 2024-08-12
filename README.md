@@ -4,7 +4,11 @@
 
 I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in building startups from scratch. I enjoy doing different things from time to time to keep myself from being bored. Sometimes you'll find me designing web and mobile applications, othertimes building data analytics solutins and writing AI algorithms.
 
-Skills: Python / Django / JS / HTML / CSS / Flutter
+Skills:
+🐍 Python / Django
+🟨 JS 
+💻 HTML / CSS 
+📱 Flutter
 
 - 🔭 I’m currently working on a data and analytics platform called DataDocket. 
 
