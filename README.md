@@ -6,6 +6,6 @@ I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in 
 
 Skills: Python / Django / JS / HTML / CSS / Flutter
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on a data and analytics platform called DataDocket. 
 
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob888)](https://github.com/noob888/github-readme-stats)
