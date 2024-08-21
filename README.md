@@ -14,13 +14,14 @@ I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in 
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6-blue)  
 ![Flutter](https://img.shields.io/badge/Flutter-%23025682-blue)
 
-## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob888)](https://github.com/noob888/github-readme-stats)
-
 
 ## Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=etl-project)](https://github.com/noob888/etl-project.git)
 
-- 🔭 Coming Soon: I’m currently working on a data and analytics side project called DataDocket. 
+- 🔭 Coming Soon: I’m currently working on a data and analytics side project called DataDocket.
 
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob888)](https://github.com/noob888/github-readme-stats)
+
+## Stats
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob888)](https://github.com/noob888/github-readme-stats)
