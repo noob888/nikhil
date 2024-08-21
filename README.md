@@ -7,11 +7,15 @@ I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in 
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
-![Django](https://img.shields.io/badge/Django-3.2%2B-brightgreen)  
+![Django](https://img.shields.io/badge/Django-3.2%2B-brightgreen) 
+![SQL](https://img.shields.io/badge/SQL-%2300758f-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26-red)  
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6-blue)  
 ![Flutter](https://img.shields.io/badge/Flutter-%23025682-blue)
+
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob888)](https://github.com/noob888/github-readme-stats)
 
 
 ## Recent Projects
