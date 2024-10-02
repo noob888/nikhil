@@ -1,9 +1,8 @@
 ### Hi there 👋, Nikhil here
 #### Data science, Marketing and Analytics enthusiast
 ![Data science and analytics enthusiast](https://i.postimg.cc/RZfVdGWF/Screenshot-2024-08-12-at-4-35-48-PM.png)
-![Project Logo](https://github.com/noob888/etl-project-hubspot/profile-image.png)
 
-I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in building startups from scratch. I enjoy doing different things from time to time to keep myself from being bored. Sometimes you'll find me designing web and mobile applications, othertimes building data analytics solutins and writing AI algorithms.
+I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in building startups from scratch. I enjoy doing different things from time to time to keep myself from being bored. Sometimes you'll find me designing web and mobile applications, othertimes building data analytics solutions and writing AI algorithms.
 
 ## Technologies
 
