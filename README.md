@@ -18,6 +18,7 @@ I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in 
 ## Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=etl-project)](https://github.com/noob888/etl-project.git)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=etl-project-hubspot)](https://github.com/noob888/etl-project-hubspot.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=ai-project)](https://github.com/noob888/ai-project.git)
 
