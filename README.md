@@ -6,6 +6,11 @@ I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in 
 
 ![Project Logo](https://github.com/noob888/etl-project-hubspot/blob/main/profile-image.png)
 
+<img src="https://github.com/noob888/etl-project-hubspot/blob/main/profile-image.png" 
+     alt="Data science and analytics enthusiast"
+     onerror="this.onerror=null; this.src='https://i.postimg.cc/RZfVdGWF/Screenshot-2024-08-12-at-4-35-48-PM.png';">
+
+
 
 ## Technologies
 
