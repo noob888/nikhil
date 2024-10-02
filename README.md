@@ -4,6 +4,9 @@
 
 I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in building startups from scratch. I enjoy doing different things from time to time to keep myself from being bored. Sometimes you'll find me designing web and mobile applications, othertimes building data analytics solutions and writing AI algorithms.
 
+![Project Logo](https://github.com/noob888/etl-project-hubspot/blob/main/profile-image.png)
+
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
