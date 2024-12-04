@@ -17,14 +17,20 @@ I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in 
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26-red)  
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6-blue)  
 ![Flutter](https://img.shields.io/badge/Flutter-%23025682-blue)
+![React](https://img.shields.io/badge/React-%2361DAFB-blue)
 
 
-## Recent Projects
+## Python Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=etl-project)](https://github.com/noob888/etl-project.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=etl-project-hubspot)](https://github.com/noob888/etl-project-hubspot.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=ai-project)](https://github.com/noob888/ai-project.git)
+
+## React Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=react-tic-tac-toe)](https://github.com/noob888/react-tic-tac-toe.git)
+
 
 - 🔭 Coming Soon: I’m currently working on a data and analytics side project called DataDocket.
 
