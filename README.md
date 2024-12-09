@@ -1,5 +1,5 @@
 ### Hi there 👋, Nikhil here
-#### Data science, Marketing and Analytics enthusiast
+#### Marketing, AI and Analytics enthusiast
 
 <img src="https://i.postimg.cc/RZfVdGWF/Screenshot-2024-08-12-at-4-35-48-PM.png';" 
      alt="Data science and analytics enthusiast"
