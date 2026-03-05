@@ -1,41 +1,60 @@
-### Hi there 👋, Nikhil here
-#### Marketing, AI and Analytics enthusiast
+# Hey, I'm Nikhil 👋
 
-<img src="https://i.postimg.cc/RZfVdGWF/Screenshot-2024-08-12-at-4-35-48-PM.png';" 
-     alt="Data science and analytics enthusiast"
-     onerror="this.onerror=null; this.src='https://github.com/noob888/etl-project-hubspot/blob/main/profile-image.png">
+**Building AI agents that automate growth @ [10ex.ai](https://10ex.ai)**
 
-I'm Nikhil. A passionate tech, marketing and data enthusiast with experience in building startups from scratch. I enjoy doing different things from time to time to keep myself from being bored. Sometimes you'll find me designing web and mobile applications, othertimes building data analytics solutions and writing AI algorithms.
+I'm a tech, marketing, and data enthusiast who's spent years building startups from the ground up. Right now, I'm all-in on the intersection of AI and growth — designing intelligent agents that handle the repetitive, high-volume work so teams can focus on strategy.
 
+When I'm not shipping AI workflows, you'll find me designing web and mobile apps, building data pipelines, or going deep on analytics problems.
 
-## Technologies
+---
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
-![Django](https://img.shields.io/badge/Django-3.2%2B-brightgreen) 
-![SQL](https://img.shields.io/badge/SQL-%2300758f-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26-red)  
-![CSS](https://img.shields.io/badge/CSS3-%231572B6-blue)  
-![Flutter](https://img.shields.io/badge/Flutter-%23025682-blue)
-![React](https://img.shields.io/badge/React-%2361DAFB-blue)
+## 🚀 What I'm Working On
 
+### [10ex.ai](https://10ex.ai) — AI-Powered Growth Agents
 
-## Python Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=etl-project)](https://github.com/noob888/etl-project.git)
+We're building autonomous AI agents that handle growth operations end-to-end:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=etl-project-hubspot)](https://github.com/noob888/etl-project-hubspot.git)
+- **Outbound automation** — agents that research prospects, personalize messaging, and manage multi-channel sequences
+- **Content engines** — AI workflows that generate, optimize, and distribute content at scale
+- **Data enrichment & scoring** — automated lead qualification and intent signal processing
+- **Campaign orchestration** — agents that plan, launch, and iterate on campaigns with minimal human input
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=ai-project)](https://github.com/noob888/ai-project.git)
+The goal: give lean teams the growth firepower of a full department — powered by AI, not headcount.
 
-## React Projects
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noob888&repo=react-tic-tac-toe)](https://github.com/noob888/react-tic-tac-toe.git)
+## 🛠 Tech Stack
 
+`Python` · `Django` · `SQL` · `JavaScript` · `React` · `HTML/CSS` · `Flutter`
 
-- 🔭 Coming Soon: I’m currently working on a data and analytics side project called DataDocket.
+---
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob888)](https://github.com/noob888/github-readme-stats)
+## 📌 Featured Projects
 
-## Stats
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob888)](https://github.com/noob888/github-readme-stats)
+### Python & Data
+
+| Project | Description |
+|---------|-------------|
+| [etl-project](https://github.com/noob888/etl-project) | Data extraction, transformation, and loading pipeline |
+| [etl-project-hubspot](https://github.com/noob888/etl-project-hubspot) | ETL pipeline integrated with HubSpot CRM |
+| [ai-project](https://github.com/noob888/ai-project) | AI/ML experimentation and algorithms |
+
+### Frontend
+
+| Project | Description |
+|---------|-------------|
+| [react-tic-tac-toe](https://github.com/noob888/react-tic-tac-toe) | Classic game built with React |
+
+---
+
+## 📊 GitHub Stats
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob888&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noob888&layout=compact)
+
+---
+
+## Let's Connect
+
+If you're working on anything at the intersection of AI, automation, and growth — I'd love to chat.
