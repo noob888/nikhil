@@ -47,14 +47,6 @@ The goal: give lean teams the growth firepower of a full department — powered 
 
 ---
 
-## 📊 GitHub Stats
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob888&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noob888&layout=compact)
-
----
-
 ## Let's Connect
 
 If you're working on anything at the intersection of AI, automation, and growth — I'd love to chat.
